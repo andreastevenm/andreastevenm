@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I am Andreas Mailangkay 👋
 
 <!--
 **andreastevenm/andreastevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9ub2xlaHV5cW45a2QzMGZjeXVodG00cjJuNG9oZXk1YTg4dXp2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTnQqygA3TcukFi/giphy.gif)
+
+- 🔭 I’m currently studying **@JIU** as an Information Technology Student.
+- 🌱 I’m currently studying Flutter App Development.
