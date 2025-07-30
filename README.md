@@ -1,4 +1,4 @@
-## Hello World! I am Andreas Mailangkay 👋
+## Hello World! I am Andreas Steven Mailangkay 👋
 
 <!--
 **andreastevenm/andreastevenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
