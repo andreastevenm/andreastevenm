@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ##### 📊 Github Stats:
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreastevenm&show_icons=true&theme=cobalt" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreastevenm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreastevenm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" width="386"/>
 
 <div br="clear">
 <picture>
