@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.mailangkay1108@gmail.com)
 
-##### 📊 Github Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreastevenm&show_icons=true&theme=cobalt" alt="GitHub Stats" width="411"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreastevenm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="Top Languages" height="173" width="430"/>
 
 <div br="clear">
 <picture>
