@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9ub2xlaHV5cW45a2QzMGZjeXVodG00cjJuNG9oZXk1YTg4dXp2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTnQqygA3TcukFi/giphy.gif" width="999"/>
 
 - 🔭 I’m currently studying **@JIU** as an Information Technology Student.
-- 🌱 I’m currently learning Flutter App Development.
+- 🌱 I’m currently learning AI Automation and Cloud Development.
 - ⚡ Fun fact: 6'2 can't play volleyball. 🤷🏻‍♂️
 
 ##### 🎓 Currently learning:
